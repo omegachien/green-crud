@@ -1,0 +1,14 @@
+{
+    "name": "omegachien/green-crud",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jc Tan",
+            "email": "omegachien@gmail.com"
+        }
+    ],
+    "require": {
+        "php" : "~5.6|~7.0",
+        "illuminate/support": "~5.1"
+    }
+}
