@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "OmegaChien\\GreenCrud\\": "GreenCrud/src/"
+            "OmegaChien\\GreenCrud\\": "src/"
         }
     }
 }
